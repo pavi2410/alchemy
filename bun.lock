@@ -183,8 +183,8 @@
     "examples/cloudflare-worker-bootstrap": {
       "name": "cloudflare-worker-bootstrap",
     },
-    "examples/docker-example": {
-      "name": "docker-example",
+    "examples/docker": {
+      "name": "docker",
       "version": "0.0.0",
     },
   },
@@ -1595,7 +1595,7 @@
 
     "dir-glob": ["dir-glob@3.0.1", "", { "dependencies": { "path-type": "^4.0.0" } }, "sha512-WkrWp9GR4KXfKGYzOLmTuGVi1UWFfws377n9cc55/tb6DuqyF6pcQ5AbiHEshaDpY9v6oaSr2XCDidGmMwdzIA=="],
 
-    "docker-example": ["docker-example@workspace:examples/docker-example"],
+    "docker": ["docker@workspace:examples/docker"],
 
     "dom-serializer": ["dom-serializer@2.0.0", "", { "dependencies": { "domelementtype": "^2.3.0", "domhandler": "^5.0.2", "entities": "^4.2.0" } }, "sha512-wIkAryiqt/nV5EQKqQpo3SToSOV9J0DnbJqwK7Wv/Trc92zIAYZ4FlMu+JPFW1DfGFt81ZTCGgDEabffXeLyJg=="],
 

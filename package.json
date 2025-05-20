@@ -26,7 +26,7 @@
     "examples/cloudflare-redwood",
     "examples/cloudflare-worker",
     "examples/cloudflare-worker-bootstrap",
-    "examples/docker-example"
+    "examples/docker"
   ],
   "devDependencies": {
     "@biomejs/biome": "beta",
